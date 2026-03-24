@@ -93,9 +93,6 @@ An interactive Power BI dashboard was created to visualize key insights.
 ![Dashboard](image/dashboard.png)
 
 
-
-> &#x20;`/image/dashboard.png`
-
 ### 💡 Key Insights:
 
 - Senior customers show the highest churn (\~45%), indicating age is a major risk factor.
