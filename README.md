@@ -90,7 +90,7 @@ Extensive **Exploratory Data Analysis (EDA)** was performed to understand custom
 
 An interactive Power BI dashboard was created to visualize key insights.
 
-📌 **Add your dashboard image below:**
+![Dashboard](image/dashboard.png)
 
 
 
