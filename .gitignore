@@ -1,0 +1,11 @@
+.streamlit/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+Ollama/
+app.py
+model/
+Power BI/
+.git
+bank.db
